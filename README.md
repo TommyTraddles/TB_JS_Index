@@ -41,7 +41,7 @@ Solución en el [repositorio](https://github.com/TommyTraddles/TB_W3-JS_Bikram-1
 Solución en el [repositorio](https://github.com/TommyTraddles/TB_W3-JS_Bikram-2).
 
 
-### Día 3 (16/26) 🚩
+### Día 3 (26/26) 👍
 
 Solución en el [repositorio](https://github.com/TommyTraddles/TB_W3-JS_Bikram-3).
 
