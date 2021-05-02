@@ -16,17 +16,16 @@ En base a [este Repositorio](https://github.com/TheBridge-FullStackDeveloper/fun
 
 Solución [en vivo](https://replit.com/@PalaGato76219/TBW3-JSChauchat#index.js).
 
-### Constantino Romero
+### Constantino Romero 🚩
 En base a [este Repositorio](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-constantino-romero).
 
-
-### Bichomón
+### Bichomón 🚩
 En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon).
 
-### Varita mágica
+### Varita mágica 🚩
 En base a [este repositoio](/https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-pp-varita-magica).
 
-### Quiz
+### Quiz 🚩
 En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz).
 
 
@@ -42,7 +41,7 @@ Solución en el [repositorio](https://github.com/TommyTraddles/TB_W3-JS_Bikram-1
 Solución en el [repositorio](https://github.com/TommyTraddles/TB_W3-JS_Bikram-2).
 
 
-### Día 3 (0/26)
+### Día 3 (16/26) 🚩
 
 Solución en el [repositorio](https://github.com/TommyTraddles/TB_W3-JS_Bikram-3).
 
