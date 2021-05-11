@@ -25,8 +25,12 @@ En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/fund
 ### Varita mágica 🚩
 En base a [este repositoio](/https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-pp-varita-magica).
 
-### Quiz 🚩
-En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz).
+### Quiz 👍
+
+En base a [este Repositorio](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz).
+
+Resultado: [GitHub page](https://tommytraddles.github.io/TB_W3-JS_4-Quiz/).
+
 
 
 ## 🏰 ⚔️ Bikram
