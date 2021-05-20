@@ -40,7 +40,7 @@ Resultado: [GitHub](https://github.com/TommyTraddles/TB_W3-JS_4-Quiz).
 En base a este repositotio [GitHub](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-pp-il-sogno-di-volare).
 Actualización del .js
 
-### 🚩 Mayas vs Aztecas
+### 👍 Mayas vs Aztecas
 En base a este repositorio [GitHub](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas).
 
 Solución [Repl.it](https://replit.com/@PalaGato76219/TBW5-JSMayas-Aztecas#index.js).
