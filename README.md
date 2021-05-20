@@ -1,52 +1,67 @@
 #### Ejercicio 
 
-## Teoría 
-En [este repositorio ](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-v2).
 
 
-## ⛩ Katas
+## Katas ⛩ ⛩ ⛩
 
-### FizzBuzz+ 👍
+### 👍 FizzBuzz+
 En base a [este Repositorio](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-fizzbuzz).
 
-Solución [en vivo](https://replit.com/@PalaGato76219/TBW3-JSBizzfuzz#index.js).
+Solución [Repl.it](https://replit.com/@PalaGato76219/TBW3-JSBizzfuzz#index.js).
 
-### Chauchat 👍
+
+### 👍 Chauchat
 En base a [este Repositorio](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-chauchat).
 
-Solución [en vivo](https://replit.com/@PalaGato76219/TBW3-JSChauchat#index.js).
+Solución [Repl.it](https://replit.com/@PalaGato76219/TBW3-JSChauchat#index.js).
 
-### Constantino Romero 🚩
+
+### 🚩 Constantino Romero
 En base a [este Repositorio](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-constantino-romero).
 
-### Bichomón 🚩
+
+### 🚩 Bichomón
 En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon).
 
-### Varita mágica 🚩
+
+### 🚩 Varita mágica
 En base a [este repositoio](/https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-pp-varita-magica).
 
-### Quiz 👍
 
-En base a [este Repositorio](https://github.com/TheBridge-FullStackDeveloper/proyectos-quiz).
-
-Resultado: [GitHub page](https://tommytraddles.github.io/TB_W3-JS_4-Quiz/).
+### 👍 Quiz
+Resultado: [GitHub](https://github.com/TommyTraddles/TB_W3-JS_4-Quiz).
 
 
 
-## 🏰 ⚔️ Bikram
+---
 
-### Día 1 (26/26) 👍
+## Trabajo fin de ciclo 🏰 🏰 🏰 
 
-Solución en el [repositorio](https://github.com/TommyTraddles/TB_W3-JS_Bikram-1).
-
-
-### Día 2 (26/26) 👍
-
-Solución en el [repositorio](https://github.com/TommyTraddles/TB_W3-JS_Bikram-2).
+### 👍 ramp-up
+Resultado: [GitHub](https://github.com/TommyTraddles/W4-JS-Personal-project).
 
 
-### Día 3 (26/26) 👍
+---
 
-Solución en el [repositorio](https://github.com/TommyTraddles/TB_W3-JS_Bikram-3).
+
+## Bikram ⚔️⚔️⚔️
+
+### 👍 Día 1 (26/26)
+Resultado: [GitHub](https://github.com/TommyTraddles/TB_W3-JS_Bikram-1).
+
+
+### 👍 Día 2 (26/26)
+Resultado: [GitHub](https://github.com/TommyTraddles/TB_W3-JS_Bikram-2).
+
+
+### 👍 Día 3 (26/26)
+Resultado: [GitHub](https://github.com/TommyTraddles/TB_W3-JS_Bikram-3).
+
+
+### 🚩 Día 4 (18/26)
+Desarrollo: [GitHub](https://github.com/TommyTraddles/TB_W5-JS_Bikram-4).
+
+
+
 
 
