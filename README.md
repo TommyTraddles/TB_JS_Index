@@ -40,6 +40,9 @@ Resultado: [GitHub](https://github.com/TommyTraddles/TB_W3-JS_4-Quiz).
 En base a este repositotio [GitHub](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-pp-il-sogno-di-volare).
 Actualización del .js
 
+### 🚩 Mayas vs Aztecas
+En base a este repositorio [GitHub](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas).
+
 ### 🚩 juego de tronos
 En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md).
 
