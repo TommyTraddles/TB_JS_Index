@@ -43,6 +43,8 @@ Actualización del .js
 ### 🚩 Mayas vs Aztecas
 En base a este repositorio [GitHub](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas).
 
+Solución [Repl.it](https://replit.com/@PalaGato76219/TBW5-JSMayas-Aztecas#index.js).
+
 ### 🚩 juego de tronos
 En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md).
 
