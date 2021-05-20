@@ -3,7 +3,6 @@
 
 ## Katas ⛩ ⛩ ⛩
 
-
 ### 🚩 juego de tronos
 En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md).
 
@@ -12,8 +11,8 @@ En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/pt-s
 
 ### 👍 Mayas vs Aztecas
 En base a este repositorio [GitHub](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas).
-
 Solución [Repl.it](https://replit.com/@PalaGato76219/TBW5-JSMayas-Aztecas#index.js).
+
 ### 👍 il sogno di volare
 En base a este repositotio [GitHub](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-pp-il-sogno-di-volare).
 Actualización del .js
