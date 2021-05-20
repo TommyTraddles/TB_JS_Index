@@ -3,11 +3,16 @@
 
 ## Katas ⛩ ⛩ ⛩
 
+### 👍 Mundo ácido
+Resultado: [GitHub](https://github.com/TommyTraddles/TB_W2-CSS-mundo-acido).
+
+### 👍 Contactos coperos
+Resultado: [GitHub](https://github.com/TommyTraddles/TB_W2-CSS-contactos-copleros).
+
 ### 👍 FizzBuzz+
 En base a [este Repositorio](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-fizzbuzz).
 
 Solución [Repl.it](https://replit.com/@PalaGato76219/TBW3-JSBizzfuzz#index.js).
-
 
 ### 👍 Chauchat
 En base a [este Repositorio](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-chauchat).
