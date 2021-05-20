@@ -6,13 +6,6 @@
 ### 🚩 juego de tronos
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md).
 
-
-
-### ⏸ bombilla
-[Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/12-11-2020-promesas/ejercicio.md).
-
-
-
 ### 👍 Mayas vs Aztecas
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas).
 [Solution](https://replit.com/@PalaGato76219/TBW5-JSMayas-Aztecas#index.js).
@@ -20,6 +13,13 @@
 ### 👍 il sogno di volare
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-pp-il-sogno-di-volare).
 Actualización del .js
+
+
+
+### ⏸ bombilla
+[Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/12-11-2020-promesas/ejercicio.md).
+
+
 
 ### 👍 Quiz
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_4-Quiz).
