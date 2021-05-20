@@ -92,5 +92,6 @@ En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/pt-s
 ### 🚩 Programación funcional - continuación (0/3)
 En base a [este repositoio](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/10-11-2020-functional-programming/ejercicio.md).
 
-
+### 🚩 Codewars Challenges
+Solución [Repl.it](https://replit.com/@PalaGato76219/TBW5-JS-Katas).
 
