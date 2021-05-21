@@ -25,7 +25,7 @@ Actualización del .js
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_4-Quiz).
 
 ### ⏸  Varita mágica
-[Challenge](/https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-pp-varita-magica).
+[Challenge](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-pp-varita-magica).
 
 ### ⏸ Bichomón
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon).
