@@ -3,14 +3,6 @@
 
 ## Katas ⛩ ⛩ ⛩
 
-### 👍 Mayas vs Aztecas
-[Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas).
-[Solution](https://replit.com/@PalaGato76219/TBW5-JSMayas-Aztecas#index.js).
-
-### 👍 il sogno di volare
-[Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-pp-il-sogno-di-volare).
-Actualización del .js
-
 
 ### ⏸ juego de tronos
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md).
@@ -19,6 +11,14 @@ Actualización del .js
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/12-11-2020-promesas/ejercicio.md).
 
 
+
+### 👍 Mayas vs Aztecas
+[Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas).
+[Solution](https://replit.com/@PalaGato76219/TBW5-JSMayas-Aztecas#index.js).
+
+### 👍 il sogno di volare
+[Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-pp-il-sogno-di-volare).
+Actualización del .js
 
 ### 👍 Quiz
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_4-Quiz).
@@ -69,9 +69,6 @@ Actualización del .js
 ### 🚩 Objetos avanzados, Clases (18/26)
 [Challenge](https://github.com/TommyTraddles/TB_W5-JS_Bikram-4).
 
-### 🚩 Codewars Challenges
-[Challenge](https://replit.com/@PalaGato76219/TBW5-JS-Katas).
-
 
 
 ### ⏸ Programación funcional (0/18)
@@ -87,6 +84,9 @@ Actualización del .js
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/10-11-2020-functional-programming/ejercicio.md).
 
 
+### 👍 Codewars Challenges
+[Challenge](https://replit.com/@PalaGato76219/TBW5-JS-Katas).
+[Solution](https://replit.com/@PalaGato76219/TBW5-JS-Katas#index.js).
 
 ### 👍 Objetos (26/26)
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_Bikram-3).
@@ -96,4 +96,5 @@ Actualización del .js
 
 ### 👍 Variables, Booleanos, Operadores, Bucles (26/26)
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_Bikram-1).
+
 
