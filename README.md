@@ -3,9 +3,6 @@
 
 ## Katas ⛩ ⛩ ⛩
 
-### 🚩 juego de tronos
-[Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md).
-
 ### 👍 Mayas vs Aztecas
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas).
 [Solution](https://replit.com/@PalaGato76219/TBW5-JSMayas-Aztecas#index.js).
@@ -15,6 +12,8 @@
 Actualización del .js
 
 
+### ⏸ juego de tronos
+[Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md).
 
 ### ⏸ bombilla
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/12-11-2020-promesas/ejercicio.md).
