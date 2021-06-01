@@ -3,6 +3,8 @@
 
 ## Katas ⛩ ⛩ ⛩
 
+### ⛩ Codewars Challenges
+[Solution](https://replit.com/@PalaGato76219/TBW5-JS-Katas#index.js).
 
 ### ⏸ juego de tronos
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md).
@@ -84,9 +86,6 @@ Actualización del .js
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/10-11-2020-functional-programming/ejercicio.md).
 
 
-### 👍 Codewars Challenges
-[Challenge](https://replit.com/@PalaGato76219/TBW5-JS-Katas).
-[Solution](https://replit.com/@PalaGato76219/TBW5-JS-Katas#index.js).
 
 ### 👍 Objetos (26/26)
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_Bikram-3).
