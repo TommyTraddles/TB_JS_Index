@@ -59,6 +59,9 @@ Actualización del .js
 ### 👍 ramp-up
 [Solution](https://github.com/TommyTraddles/W4-JS-Personal-project).
 
+### 🚩 api fetch
+[Solution](https://github.com/TommyTraddles/TB_W7-JS-Beer-right-back).
+
 
 
 ---
