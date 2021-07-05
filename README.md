@@ -1,6 +1,4 @@
-#### Ejercicio 
-
-## Proyectos personales 🏰 🏰 🏰 
+# Proyectos personales 🏰 🏰 🏰 
 
 ### 👍 ramp-up
 [Solution](https://github.com/TommyTraddles/W4-JS-Personal-project).
@@ -13,7 +11,7 @@
 ---
 
 
-## Katas ⛩ ⛩ ⛩
+# Katas ⛩ ⛩ ⛩
 
 ### ⛩ Codewars Challenges
 [Solution](https://replit.com/@PalaGato76219/TBW5-JS-Katas#index.js).
@@ -23,8 +21,6 @@
 
 ### ⏸ bombilla
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/12-11-2020-promesas/ejercicio.md).
-
-
 
 ### 👍 Mayas vs Aztecas
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas).
@@ -66,11 +62,10 @@ Actualización del .js
 
 
 
-## Bikram ⚔️⚔️⚔️
+# Bikram ⚔️⚔️⚔️
 
 ### 🚩 Objetos avanzados, Clases (18/26)
 [Challenge](https://github.com/TommyTraddles/TB_W5-JS_Bikram-4).
-
 
 ### ⏸ Programación funcional (0/18)
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/03-11-2020-functional-programming/ejercicio.md).
@@ -83,8 +78,6 @@ Actualización del .js
 
 ### ⏸ Programación funcional - continuación (0/3)
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/10-11-2020-functional-programming/ejercicio.md).
-
-
 
 ### 👍 Objetos (26/26)
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_Bikram-3).
