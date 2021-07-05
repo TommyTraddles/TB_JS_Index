@@ -1,5 +1,17 @@
 #### Ejercicio 
 
+## Proyectos personales 🏰 🏰 🏰 
+
+### 👍 ramp-up
+[Solution](https://github.com/TommyTraddles/W4-JS-Personal-project).
+
+### 🚩 api fetch
+[Solution](https://github.com/TommyTraddles/TB_W7-JS-Beer-right-back).
+
+
+
+---
+
 
 ## Katas ⛩ ⛩ ⛩
 
@@ -54,26 +66,10 @@ Actualización del .js
 
 
 
-## Proyectos personales 🏰 🏰 🏰 
-
-### 👍 ramp-up
-[Solution](https://github.com/TommyTraddles/W4-JS-Personal-project).
-
-### 🚩 api fetch
-[Solution](https://github.com/TommyTraddles/TB_W7-JS-Beer-right-back).
-
-
-
----
-
-
-
-
 ## Bikram ⚔️⚔️⚔️
 
 ### 🚩 Objetos avanzados, Clases (18/26)
 [Challenge](https://github.com/TommyTraddles/TB_W5-JS_Bikram-4).
-
 
 
 ### ⏸ Programación funcional (0/18)
