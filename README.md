@@ -1,37 +1,37 @@
 # TB_Proyectos
 
-### 👍 ramp-up
+### ✅ ramp-up
 [Solution](https://github.com/TommyTraddles/W4-JS-Personal-project).
 
-### 🚩 api fetch
+### 👨‍ api fetch
 [Solution](https://github.com/TommyTraddles/TB_W7-JS-Beer-right-back).
 
 ---
 
 # Bikram ⚔️⚔
 
-### 🚩 Objetos avanzados, Clases (18/26)
+### 👨‍ Objetos avanzados, Clases (18/26)
 [Challenge](https://github.com/TommyTraddles/TB_W5-JS_Bikram-4).
 
-### ⏸ Programación funcional (0/18)
+### 🧨 Programación funcional (0/18)
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/03-11-2020-functional-programming/ejercicio.md).
 
-### ⏸ Programación funcional - continuación (0/0)
+### 🧨 Programación funcional - continuación (0/0)
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/05-11-2020-functional-programming/ejercicios.md).
 
-### ⏸ Programación funcional (0/12)
+### 🧨 Programación funcional (0/12)
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/07-11-2020-functional-programming/ejercicio.md).
 
-### ⏸ Programación funcional - continuación (0/3)
+### 🧨 Programación funcional - continuación (0/3)
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/10-11-2020-functional-programming/ejercicio.md).
 
-### 👍 Objetos (26/26)
+### ✅ Objetos (26/26)
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_Bikram-3).
 
-### 👍 Arrays, Funciones (26/26)
+### ✅ Arrays, Funciones (26/26)
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_Bikram-2).
 
-### 👍 Variables, Booleanos, Operadores, Bucles (26/26)
+### ✅ Variables, Booleanos, Operadores, Bucles (26/26)
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_Bikram-1).
 
 
@@ -39,44 +39,44 @@
 
 # Katas ⛩
 
-### ⏸ juego de tronos
+### 🧨 juego de tronos
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/ejercicio.md).
 
-### ⏸ bombilla
+### 🧨 bombilla
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/pt-sept-20-js-avanzado/blob/master/12-11-2020-promesas/ejercicio.md).
 
-### 👍 Mayas vs Aztecas
+### ✅ Mayas vs Aztecas
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-kata-mayas-y-aztecas). | 
 [Solution](https://replit.com/@PalaGato76219/TBW5-JSMayas-Aztecas#index.js).
 
-### 👍 il sogno di volare
+### ✅ il sogno di volare
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/programacion-avanzada-pp-il-sogno-di-volare).
 Actualización del .js
 
-### 👍 Quiz
+### ✅ Quiz
 [Solution](https://github.com/TommyTraddles/TB_W3-JS_4-Quiz).
 
-### ⏸  Varita mágica
+### 🧨  Varita mágica
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-pp-varita-magica).
 
-### ⏸ Bichomón
+### 🧨 Bichomón
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-bichomon).
 
-### ⏸ Constantino Romero
+### 🧨 Constantino Romero
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-constantino-romero).
 
-### 👍 Chauchat
+### ✅ Chauchat
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-chauchat). | 
 [Solution](https://replit.com/@PalaGato76219/TBW3-JSChauchat#index.js).
 
-### 👍 FizzBuzz+
+### ✅ FizzBuzz+
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fundamentos-de-programacion-kata-fizzbuzz). | 
 [Solution](https://replit.com/@PalaGato76219/TBW3-JSBizzfuzz#index.js).
 
-### 👍 Contactos coperos
+### ✅ Contactos coperos
 [Solution](https://github.com/TommyTraddles/TB_W2-CSS-contactos-copleros).
 
-### 👍 Mundo ácido
+### ✅ Mundo ácido
 [Solution](https://github.com/TommyTraddles/TB_W2-CSS-mundo-acido).
 
 
